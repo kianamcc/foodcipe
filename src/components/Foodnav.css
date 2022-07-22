@@ -1,0 +1,17 @@
+.food-nav-items 
+{
+    width: 100vw;
+    margin: 20px; 
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+h3 {
+    text-decoration: none;
+    color: black;
+}
+
+h3:hover {
+    color: grey;
+}

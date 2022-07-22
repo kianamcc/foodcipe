@@ -1,0 +1,23 @@
+
+
+.shuffle-content-container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.shuffle-image-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.shuffle-card-title {
+    font-size: 1.5rem;
+}
+
+.ingredients-container {
+    display: flex;
+    flex-direction: row;
+}

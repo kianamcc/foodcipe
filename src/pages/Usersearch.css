@@ -1,0 +1,32 @@
+.search-card-outer {
+    width: 100vw;
+    height: 100vh;
+    /* padding: 20px; */
+    }
+    
+.search-title {
+    font-size: 2rem;
+    float: left;
+    font-weight: 800;
+}
+    
+.search-card-inner {
+    width: 100vw;
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    gap: 15px;
+    flex-wrap: wrap;
+    /* margin: 10px; */
+}
+
+.card-items {
+    flex: 1 0 250px;
+} 
+
+.search-card-buttons {
+    display: flex;
+    gap: 13px;
+    justify-content: center;
+    /* justify-content: space-between; */
+}

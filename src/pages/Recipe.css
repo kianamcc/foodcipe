@@ -1,0 +1,24 @@
+.recipe-title {
+    font-size: 2rem;
+}
+
+.ingredients {
+    font-size: 1.5rem;
+}
+
+.recipe-outer {
+    margin: 50px;
+}
+
+.recipe-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.recipe-img {
+    width: 30vw;
+    height: 30vh;
+}

@@ -1,0 +1,36 @@
+.card-outer {
+
+}
+
+.title {
+    font-size: 2rem;
+    float: left;
+    font-weight: 800;
+    margin: 10px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-inner {
+    width: 100vw;
+    margin: 20px; 
+    display: flex;
+    /* overflow-y: hidden; */
+    overflow-x: scroll;
+    gap: 15px;
+    /* flex-wrap: wrap; */
+}
+
+.card-items {
+    flex: 1 0 250px;
+} 
+
+
+
+.card-buttons {
+    display: flex;
+    justify-content: center;
+
+}

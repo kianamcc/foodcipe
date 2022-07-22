@@ -1,0 +1,41 @@
+.home-2 {
+    background-image: url("../assets/food.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.shuffle-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    opacity: 0.9;
+    gap: 10px;
+   padding: 20px;
+}
+
+.shuffle-title {
+    font-size: 2rem;
+    padding-top: 15px;
+}
+
+.shuffle-subtitle {
+    font-size: 1.6rem;
+}
+
+.shuffle-btn {
+    height: 8vh;
+    width: 8vw;
+    border-radius: 5px;
+    align-self: center;
+    background-color: white;
+    margin: 10px;
+    margin-bottom: 50px;
+}
+
+.shuffle-btn:hover {
+    background-color: lightblue;
+}
+

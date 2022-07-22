@@ -1,0 +1,14 @@
+.search-bar {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-btn {
+    height: 5vh;
+    width: 5vw;
+}
+
+.search {
+    height: 5vh;
+}
